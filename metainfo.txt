@@ -1,0 +1,6 @@
+Name of Quantlet: Quantile_Treatment
+Published in: 'Non'
+Description: 'Example for Quantile regression in treatment'
+Keywords: 'Simulation, R, quantile, regression, Plot'
+Author: 'Ruting Rainy WANG' 
+Submitted:  '25.08.2025'
